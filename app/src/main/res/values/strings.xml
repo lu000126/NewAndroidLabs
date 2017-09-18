@@ -2,4 +2,7 @@
     <string name="app_name">NewAndroidLabs</string>
     <string name="hello_message">Hello World!</string>
     <string name="ButtonText">I\'M A BUTTON</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="loginname">login name</string>
 </resources>
