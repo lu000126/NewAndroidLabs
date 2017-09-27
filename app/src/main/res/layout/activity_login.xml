@@ -13,6 +13,7 @@
         android:layout_height="wrap_content"
         />
     <EditText
+        android:id="@+id/login"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/loginname"
@@ -29,5 +30,14 @@
         android:layout_height="wrap_content"
         android:inputType="textPassword"
         />
+
+
+    <Button
+        android:id="@+id/loginbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="@string/LoginButtonText" />
+        //android:onClick="LoginInfo"
 
 </LinearLayout>

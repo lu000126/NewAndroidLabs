@@ -2,4 +2,7 @@
 <resources><string name="app_name">NewAndroidLabs</string>
     <string name="hello_message">Bonjour!</string>
     <string name="ButtonText">I\'M A FRENCH BUTTON</string>
+    <string name="login">French login</string>
+    <string name="password">french password</string>
+    <string name="loginname">french login name</string>
 </resources>

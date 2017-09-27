@@ -13,18 +13,21 @@
         android:layout_columnWeight="1"
         android:layout_gravity="fill"/>
     <CheckBox
+        android:id="@+id/checkbox"
         android:text="CheckBox"
         android:layout_columnWeight="1"
         android:layout_gravity="fill"
         />
     <Switch
+        android:id="@+id/swtich"
         android:text="What does this do"
         android:layout_columnWeight="1"
         android:layout_gravity="fill"/>
 
     <ImageButton
-        android:src="@android:drawable/ic_menu_camera"
+        android:id="@+id/imageButton"
         android:layout_columnWeight="1"
-        android:layout_gravity="fill" />
+        android:layout_gravity="fill"
+        android:src="@android:drawable/ic_menu_camera" />
 
 </GridLayout>
